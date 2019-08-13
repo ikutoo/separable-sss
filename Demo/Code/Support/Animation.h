@@ -32,6 +32,8 @@
 #ifndef ANIMATION_H
 #define ANIMATION_H
 
+#include <algorithm>
+
 class Animation {
     public:
         template <class T>

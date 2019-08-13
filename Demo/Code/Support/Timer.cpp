@@ -28,7 +28,7 @@
  * policies, either expressed or implied, of the copyright holders.
  */
 
-
+#include <algorithm>
 #include "timer.h"
 using namespace std;
 

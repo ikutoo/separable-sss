@@ -28,7 +28,7 @@
  * policies, either expressed or implied, of the copyright holders.
  */
 
-
+#include <algorithm>
 #include <sstream>
 #include "Bloom.h"
 using namespace std;

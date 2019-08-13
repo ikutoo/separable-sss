@@ -41,6 +41,7 @@
 #include <sstream>
 #include <iomanip>
 #include <limits>
+#include <algorithm>
 
 #include "Timer.h"
 #include "Camera.h"
